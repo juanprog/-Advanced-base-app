@@ -26,7 +26,7 @@ dependencies:
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
-  cupertino_icons: ^1.0.2
+  cupertino_icons: ^1.0.3
 
   micro_commons_design_system:
     git:
@@ -41,7 +41,7 @@ dependencies:
   micro_app_login:
     git:
       url: https://github.com/juanprog/-Advanced-micro-app-login.git
-      ref: v1.1.2
+      ref: v1.1.3
 
   micro_app_home:
     git:
