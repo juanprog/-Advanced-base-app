@@ -137,11 +137,11 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "v1.1.3"
-      resolved-ref: "69af5f6031fc6038322f6e1e5031a11f7f4036bc"
+      ref: "v1.2.0"
+      resolved-ref: "6a83707f76a7b853940b810efb9ecea84185dcfb"
       url: "https://github.com/juanprog/-Advanced-micro-app-login.git"
     source: git
-    version: "1.1.3"
+    version: "1.2.0"
   micro_commons_design_system:
     dependency: "direct main"
     description:
